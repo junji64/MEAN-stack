@@ -1,5 +1,4 @@
 
-# Introduction
 ## MEAN Stack 이란?
 MEAN Stack은 독립적인 기술 이름에서 앞 글자를 따온 것이다.
 M: MongoDB, E: Express JS, A: Angular JS, N: Node JS
