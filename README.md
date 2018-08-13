@@ -11,7 +11,7 @@ M: MongoDB, E: Express JS, A: Angular JS, N: Node JS
 
 4가지 기술 모두 Javascript 언어에 그 뿌리를 가진다. 각 기술들이 가지는 장점 (물론 단점도 있다) 들을 제외하더라도, 일단 동일한 Javascript 언어로 웹 어플리케이션을 제작하기 위한 모든 것을 작성 가능하다는 것은 큰 장점으로 다가올 수 있다. 과거에 서버는 JSP/PHP/ASP로 구성, 데이터베이스는 MySQL/MS-SQL/Oracle로 구성, 프론트엔드에는 javascript로 구성하는 방식들이 사용되었고, 현재에도 사용되고 있다. 모든 환경에 대한 언어에 정통한 것이 불가능은 아니지만, 상당한 골칫거리가 될 수 있으며 개발 후 유지/보수 차원에서 볼때, 단일 언어로 작성된 웹 어플리케이션은 큰 장점을 가진다.
 
-출처: http://dog-paw.tistory.com/entry/MEAN-스택-구성-요소-MongoDB-Express-AngularJS-Nodejs [Dog발]
+출처: https://www.manning.com/books/getting-mean-with-mongo-express-angular-and-node
 
 ## Useful resources on the Web
 ### 강의록
