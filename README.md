@@ -29,4 +29,4 @@ MEAN Stack은 독립적인 기술 이름에서 앞 글자를 따온 것이다.
 ### 강의 비디오
 - [Server Side JavaScript (nodejs)](https://www.youtube.com/watch?v=60zErcCmBfM&list=PLuHgQVnccGMBnrdKRODJmbH7UZ2A48LBK&index=2)  by 생활코딩
 - [Do it! Node.js](https://www.youtube.com/watch?v=EfPHkuFujMY&list=PLG7te9eYUi7tHH-hJ2yzBJ9h6dwBu1FUy)  by 정재곤
-- [React](https://youtu.be/fT9iFFAt60E?list=PL9FpF_z-xR_E4rxYMMZx5cOpwaiwCzWUH) by Velopert
+- [React](https://youtu.be/fT9iFFAt60E?list=PL9FpF_z-xR_E4rxYMMZx5cOpwaiwCzWUH) by 김민준(velopert)
