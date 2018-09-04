@@ -15,12 +15,18 @@ MEAN Stack은 독립적인 기술 이름에서 앞 글자를 따온 것이다.
 
 ## Useful resources on the Web
 ### 강의록
-- https://velopert.com/node-js-tutorials
-- http://pyrasis.com/nodejs/nodejs-HOWTO/#websocket
-- https://www.tutorialspoint.com/nodejs/index.htm
-- https://www.w3schools.com/nodejs/default.asp
-- https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
-
+- NodeJS 
+  - https://velopert.com/node-js-tutorials
+  - http://pyrasis.com/nodejs/nodejs-HOWTO/#websocket
+  - https://www.tutorialspoint.com/nodejs/index.htm
+  - https://www.w3schools.com/nodejs/default.asp
+- Express 
+  - https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
+- React 
+  - https://velopert.com/3676
+  
+  
 ### 강의 비디오
 - [Server Side JavaScript (nodejs)](https://www.youtube.com/watch?v=60zErcCmBfM&list=PLuHgQVnccGMBnrdKRODJmbH7UZ2A48LBK&index=2)  by 생활코딩
 - [Do it! Node.js](https://www.youtube.com/watch?v=EfPHkuFujMY&list=PLG7te9eYUi7tHH-hJ2yzBJ9h6dwBu1FUy)  by 정재곤
+- [React] (https://velopert.com/3676)
