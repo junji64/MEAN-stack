@@ -23,7 +23,7 @@ MEAN Stack은 독립적인 기술 이름에서 앞 글자를 따온 것이다.
 - Express 
   - https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
 - Angular 6
-  - https://https://javabrains.io/courses/angular_basics/
+  - https://javabrains.io/courses/angular_basics/
   
   
 ### 강의 비디오
@@ -31,6 +31,4 @@ MEAN Stack은 독립적인 기술 이름에서 앞 글자를 따온 것이다.
 - [Do it! Node.js](https://www.youtube.com/watch?v=EfPHkuFujMY&list=PLG7te9eYUi7tHH-hJ2yzBJ9h6dwBu1FUy)  by 정재곤
 - [Angular 6](https://www.youtube.com/watch?v=9RG3MiEBEIw&list=PLqq-6Pq4lTTb7JGBTogaJ8bm7f8VCvFkj) by Java Brains
 
-### Obsolete()
-- [AngularJS](https://www.youtube.com/watch?v=EklH54kysps&list=PLs_XsVQJKaBk_JN5RctLmmVrGwEzpzqaj) by 김정환
-- [React](https://youtu.be/fT9iFFAt60E?list=PL9FpF_z-xR_E4rxYMMZx5cOpwaiwCzWUH) by 김민준(velopert)
+
