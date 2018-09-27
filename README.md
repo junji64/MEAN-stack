@@ -22,7 +22,7 @@ MEAN Stack은 독립적인 기술 이름에서 앞 글자를 따온 것이다.
   - https://www.w3schools.com/nodejs/default.asp
 - Express 
   - https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
-- Angular 6
+- Angular
   - https://moon9342.github.io/angular-lecture-introduction (Good)
   - https://javabrains.io/courses/angular_basics/
   
