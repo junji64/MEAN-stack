@@ -1,7 +1,7 @@
 
 ## MEAN Stack 이란?
 MEAN Stack은 독립적인 기술 이름에서 앞 글자를 따온 것이다.
-**M: MongoDB, E: Express JS, A: Angular JS, N: Node JS**
+**M: MongoDB, E: Express JS, A: Angular, N: Node JS**
 
 ## 각 기술들의 역할¶
 - **MongoDB**는 NoSQL 진영의 대표적인 데이터베이스 기술이다.
@@ -23,14 +23,17 @@ MEAN Stack은 독립적인 기술 이름에서 앞 글자를 따온 것이다.
 - Express 
   - https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
 - Angular
-  - https://moon9342.github.io/angular-lecture-introduction (Good)
+  - https://moon9342.github.io/angular-lecture-introduction
+  - http://kamang-it.tistory.com/entry/Angular-01Angular%EC%99%80-TypesScript?category=739735
   - https://javabrains.io/courses/angular_basics/
   
   
 ### 강의 비디오
 - [Server Side JavaScript (nodejs)](https://www.youtube.com/watch?v=60zErcCmBfM&list=PLuHgQVnccGMBnrdKRODJmbH7UZ2A48LBK&index=2)  by 생활코딩
 - [Do it! Node.js](https://www.youtube.com/watch?v=EfPHkuFujMY&list=PLG7te9eYUi7tHH-hJ2yzBJ9h6dwBu1FUy)  by 정재곤
-- [Angular] (https://www.youtube.com/watch?v=BpLYqHJHAdU&index=1&list=PLlSZlNj22M7SC6zsFLaMplXe2RrO-R9S5) by Team Jupeter
-- [Angular] (https://www.youtube.com/watch?v=9RG3MiEBEIw&list=PLqq-6Pq4lTTb7JGBTogaJ8bm7f8VCvFkj) by Java Brains
+- [Angular in 60 minutes](https://www.youtube.com/watch?v=KhzGSHNhnbI) by Traversy Media
+- [Angular](https://www.youtube.com/watch?v=BpLYqHJHAdU&index=1&list=PLlSZlNj22M7SC6zsFLaMplXe2RrO-R9S5) by Team Jupeter
+- [Angular](https://www.youtube.com/watch?v=9RG3MiEBEIw&list=PLqq-6Pq4lTTb7JGBTogaJ8bm7f8VCvFkj) by Java Brains
+- [MEAN Stack Front to Back](https://www.youtube.com/watch?v=uONz0lEWft0&list=PLillGF-RfqbZMNtaOXJQiDebNXjVapWPZ) by Traversy Media
 
 
