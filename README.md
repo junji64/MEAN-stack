@@ -3,7 +3,7 @@
 MEAN Stack은 독립적인 기술 이름에서 앞 글자를 따온 것이다.
 **M: MongoDB, E: Express JS, A: Angular, N: Node JS**
 
-## 각 기술들의 역할¶
+## 각 기술들의 역할
 - **MongoDB**는 NoSQL 진영의 대표적인 데이터베이스 기술이다.
 - **Node JS**는 서버를 구축하기 위해 사용되는 JavaScript 런타임(프로그램 실행 환경) 이다.
 - **Express**는 Node JS로 웹 서버를 구성시, 필요한 환경 설정 및 관리 등을 담당하는 프레임워크(프로그램 기본 구조)이다.
