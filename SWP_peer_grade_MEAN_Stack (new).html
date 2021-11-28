@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+<body>
+
+<h2> (New) Peer Grading for MEAN Stack Project (total 90점) </h2>
+<script>
+	function assign(obj,no) {
+		if (obj.checked == true) {obj.value = no}
+		else { obj.value = "0"}
+	}
+</script>
+
+<form action="/action_page.php" id="prob1">   
+
+(0/5/10) <b> 사용자</b>:  등록 기능 구현 (DB 활용) - No <input type="radio" name="a1" value="0" onchange="assign(this,0)" checked=""> / Simple copy <input type="radio" name="a1" value="0" onchange="assign(this,5)"> / Some change <input type="radio" name="a1" value="0" onchange="assign(this,10)"> /<br>
+ 
+(0/5/10) <b> 사용자</b>:  로그인 및 세션기능 구현 - No <input type="radio" name="a2" value="0" onchange="assign(this,0)" checked=""> / Simple copy  <input type="radio" name="a2" value="0" onchange="assign(this,5)"> / Some change <input type="radio" name="a2" value="0" onchange="assign(this,10)"> /<br>
+
+(10) <b> 사용자</b>:  프로필 수정기능 구현  <input type="checkbox" name="a3" value="0" onchange="assign(this,10)"> 
+ <br>
+
+(0/5/10) <b> 자료 업로드 </b>:  텍스트 자료 입력 기능 구현 - No <input type="radio" name="a4" value="0" onchange="assign(this,0)" checked=""> / Simple Copy  <input type="radio" name="a4" value="0" onchange="assign(this,5)"> / Some change <input type="radio" name="a4" value="0" onchange="assign(this,10)"> /<br>
+
+ 
+(0/5/10) <b> 자료 표시기능 </b> :  업로드된 자료 보여주기 모든 사용자에게 정리해서 보여주기 - No <input type="radio" name="a5" value="0" onchange="assign(this,0)" checked=""> / Basic  <input type="radio" name="a5" value="0" onchange="assign(this,5)"> / Good <input type="radio" name="a5" value="0" onchange="assign(this,10)"> /<br>
+
+
+(10) <b> 자료 표시기능  </b> : 업로드된 자료 선별하여 보여주기 (검색기능) <input type="checkbox" name="a6" value="0" onchange="assign(this,10)">  <br>
+
+
+(10) <b> 자료 표시기능  </b> : 업로드된 자료에 추가 정보 달기 (댓글 기능)  <input type="checkbox" name="a7" value="0" onchange="assign(this,10)">  <br>
+
+
+(0/5/10) <b>  자료 수정  </b> :  본인 자료 수정 또는 삭제 기능 구현 - No <input type="radio" name="a8" value="0" onchange="assign(this,0)" checked=""> / Partly  <input type="radio" name="a8" value="0" onchange="assign(this,5)"> / Complete <input type="radio" name="a8" value="0" onchange="assign(this,10)"> /<br>
+
+(0/5/10) <b> 자료 업로드</b>: 샘플 자료 양 : NO <input type="radio" name="a9" value="0" onchange="assign(this,0)" checked=""> / 적음  <input type="radio" name="a9" value="0" onchange="assign(this,5)"> / 충분  <input type="radio" name="a9" value="0" onchange="assign(this,10)"> /<br>
+
+
+ <input type="button" value="sum" onclick="sum.value=parseInt(a1.value)+parseInt(a2.value)+parseInt(a3.value)+parseInt(a4.value)+parseInt(a5.value)+parseInt(a6.value)+parseInt(a7.value)+parseInt(a8.value)+parseInt(a9.value)">  =  <output name="sum" id="sum" for="a1 a2 a3 a3 a4 a5 a6 a7 a8 a9"> </output>
+   
+</form>
+
+<hr>
+
+</body>
+</html>
